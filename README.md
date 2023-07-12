@@ -30,6 +30,6 @@
 
 <div>
    <p>Social Network</p>
-  <a href="https://www.linkedin.com/in/denis-moraes-b51a48212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/denis-guedes-b51a48212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <p>I'm passionate about the world of technology</p>
